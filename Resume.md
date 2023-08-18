@@ -10,7 +10,9 @@
 ## 工作及教育经历
 * 深兰人工智能（深圳）有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023.1 ~ 至今&emsp;&emsp;&emsp;&emsp;熊猫汽车汽车产业集团软件部-嵌入式组
 * 法雷奥汽车控制（深圳）有限公司&emsp;&emsp;&emsp;&emsp;&emsp;2022.1 ~ 2023.1&emsp;&emsp;&emsp;舒适与辅助驾驶事业部-视觉辅助系统团队
-* 深圳一清创新科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.7 ~ 2022.1 &emsp;&emsp;&ensp;算法部-系统软件组
+* 未来机器人（深圳）有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.7 ~ 2022.1&emsp;&emsp;&emsp;软件部-基础架构组
+* 深圳一清创新科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.7 ~ 2022.1 &emsp;&emsp;&ensp;&nbsp;算法部-系统软件组
+* 武汉光庭信息技术股份有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.7 ~ 2020.2 &emsp;&emsp;&ensp;&nbsp;车联网事业部-研发二部
 * 湖北汽车工业学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.9 ~ 2019.7&emsp;&emsp;&emsp;车辆工程-本科
 
 ## 专业技能
@@ -65,9 +67,9 @@
 
 9. 深圳一清创新科技有限公司 - 无人车状态监测GUI开发 - 独立开发 - 2022
     * 获取底盘各模块状态信息，车辆传感器包括超声波，相机，激光雷达等感知信息，实时显示
-    * 主要使用了Qt5，速度绘制曲线使用的是matlabplot开源组件，难点在于缺乏Qt开发经验，导致UI界面各模块显示版面的调试花了较长时间，整体是参考其他GUI模块的重新开发
+    * 主要使用了Qt5，速度绘制曲线使用的是matlabplot开源组件，难点在于缺乏Qt开发经验，导致在UI界面各模块显示版面调试花了较长时间，整体是参考其他GUI模块的重新开发
 
 ## 获奖经历
-* 华南赛区大学生（恩智浦）智能汽车竞赛  电磁普通组 一等奖
-* 全国大学生（恩智浦）智能汽车竞赛     电磁普通组 全国一等奖
+* 华南赛区大学生（恩智浦）智能汽车竞赛&emsp;电磁普通组&emsp;&emsp;一等奖
+* 全国大学生（恩智浦）智能汽车竞赛&emsp;&emsp;&emsp;电磁普通组&emsp;全国一等奖
 
